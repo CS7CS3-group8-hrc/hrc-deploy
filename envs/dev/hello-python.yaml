@@ -1,0 +1,6 @@
+image:
+  repository: ghcr.io/cs7cs3-group8-hrc/hello-python
+  tag: "0.1.29-5c23564"
+config:
+  APP_ENV: dev
+  LOG_LEVEL: INFO

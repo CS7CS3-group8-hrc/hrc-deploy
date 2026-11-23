@@ -1,0 +1,5 @@
+apiVersion: v2
+name: hrc-service
+description: Generic chart used by every HRC microservice
+type: application
+version: 0.1.0
