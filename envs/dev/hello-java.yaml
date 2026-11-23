@@ -1,0 +1,6 @@
+image:
+  repository: ghcr.io/cs7cs3-group8-hrc/hello-java
+  tag: "0.1.29-5c23564"   # the version running in dev; change this line to deploy
+config:
+  APP_ENV: dev
+  LOG_LEVEL: INFO
